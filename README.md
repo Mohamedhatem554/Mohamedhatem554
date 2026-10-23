@@ -41,7 +41,7 @@ A simple command-line shell project developed to explore operating system and co
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Mohamed H. Abdalaal](www.linkedin.com/in/mohamed-h-abdalaal)
+- 💼 LinkedIn: [Mohamed H. Abdalaal](https://www.linkedin.com/in/mohamed-h-abdalaal)
 - 💻 GitHub: [Mohamedhatem554](https://github.com/Mohamedhatem554)
 
 ---
